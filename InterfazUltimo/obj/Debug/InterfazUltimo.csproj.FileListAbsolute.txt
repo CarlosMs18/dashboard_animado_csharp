@@ -1,0 +1,12 @@
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\bin\Debug\InterfazUltimo.exe.config
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\bin\Debug\InterfazUltimo.exe
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\bin\Debug\InterfazUltimo.pdb
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\obj\Debug\InterfazUltimo.csproj.AssemblyReference.cache
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\obj\Debug\InterfazUltimo.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\obj\Debug\InterfazUltimo.Form1.resources
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\obj\Debug\InterfazUltimo.Properties.Resources.resources
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\obj\Debug\InterfazUltimo.csproj.GenerateResource.cache
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\obj\Debug\InterfazUltimo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\obj\Debug\InterfazUltimo.exe
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\obj\Debug\InterfazUltimo.pdb
+C:\Users\usuario\source\InterfazUltimo\InterfazUltimo\obj\Debug\InterfazUltimo.Productos.resources
